@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-
-
 void menu();//menu episode
 void login();//Signup and Signin is 
 void costsShow();//Revenue record is showed here
